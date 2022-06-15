@@ -1,0 +1,29 @@
+{
+  "tabs": [
+    {
+      "id": 1,
+      "name": "Tab 1",
+      "text": "Tab 1 Content Lorem ipsum"
+    },
+    {
+      "id": 2,
+      "name": "Tab 2",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi earum, in placeat itaque doloribus minus, dolorem iusto aspernatur repellendus, accusantium temporibus expedita totam ut. In molestias obcaecati iste cumque commodi!"
+    },
+    {
+      "id": 3,
+      "name": "Tab 3",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi earum, in placeat itaque doloribus minus, dolorem iusto aspernatur repellendus, accusantium temporibus expedita totam ut. In molestias obcaecati iste cumque commodi!"
+    },
+    {
+      "id": 4,
+      "name": "Tab 4",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi earum, in placeat itaque doloribus minus, dolorem iusto aspernatur repellendus, accusantium temporibus expedita totam ut. In molestias obcaecati iste cumque commodi!"
+    },
+    {
+      "id": 5,
+      "name": "Tab 5",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Animi earum, in placeat itaque doloribus minus, dolorem iusto aspernatur repellendus, accusantium temporibus expedita totam ut. In molestias obcaecati iste cumque commodi!"
+    }
+  ]
+}
